@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "five-things"
+version = "0.1.0"
+description = "Five cards from a folder of notes, made by a local open-weight model"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "dekita" }]
+dependencies = []
+
+[project.scripts]
+five-things = "fivethings.cli:main"
+
+[tool.setuptools]
+packages = ["fivethings"]

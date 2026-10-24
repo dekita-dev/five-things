@@ -1,0 +1,4 @@
+the thing about the cache is that it is keyed on the
+text and not the path so renaming a file still hits the cache, which is what I
+wanted, but it also means two identical notes share one entry and that is
+probably fine

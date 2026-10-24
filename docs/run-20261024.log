@@ -1,0 +1,47 @@
+1. !renewal-domains.md
+   what : Domain renewals
+   next : decide whether the .dev one is worth another year.
+   proof: The two domains expire on 2026-10-30.
+   signals: pinned by filename, touched in the last 3 days, open markers: DECIDE, TODO
+
+2. bills-october.md
+   what : October bills
+   next : pay the electricity before the late fee kicks in.
+   proof: DUE 2026-10-25: pay the electricity before the late fee kicks in.
+   signals: touched in the last 3 days, open markers: DUE, dated 2026-10-25 (within a week)
+
+3. client-call-2026-10-23.md  [unverified]
+   what : -
+   next : -
+   why  : the model echoed the instructions instead of reading the note
+   signals: touched today, open markers: DECIDE, NEXT
+
+4. apartment-move.md
+   what : Moving out checklist
+   next : DECIDE: sell the desk or take it.
+   proof: DECIDE: sell the desk or take it.
+   signals: touched in the last 2 weeks, open markers: BLOCKED, DECIDE, TODO, WAITING
+
+5. tax-documents-2026.md
+   what : Tax preparation
+   next : pull the March invoices out of the mailbox and rename them with the YYYY-MM format she asked for.
+   proof: Accountant wants everything by 2026-10-28.
+   signals: touched in the last 2 weeks, open markers: TODO, dated 2026-10-28 (within a week)
+
+not today (8)
+  - sourdough-timer.md  <ranked #6, below the budget of 5>
+  - ignore-previous.md  <ranked #7, below the budget of 5>
+  - meeting-2026-10-22.md  <ranked #8, below the budget of 5>
+  - reading-list.md  <ranked #9, below the budget of 5>
+  - untitled.txt  <ranked #10, below the budget of 5>
+  - project-ideas-2024.md  <ranked #11, below the budget of 5>
+  - wifi-and-codes.md  <ranked #12, below the budget of 5>
+  - tiny.txt  <ranked #13, below the budget of 5>
+
+filtered out (1)
+  - already-done.md  <marked done>
+
+run: 13 notes, 5 cards, 5 model calls (0 from cache), 1100+299 tokens, 394.9s, 0.8 tok/s
+read: 3250 chars in the folder, 292 chars in your cards (9.0% of the folder)
+card status: {"ok": 4, "unverified": 1}
+

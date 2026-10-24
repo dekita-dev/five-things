@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.fivecache.json
+build/
+dist/
+*.egg-info/
